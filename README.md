@@ -1,4 +1,6 @@
-## Hi there 👋
+## Welcome to my small coding world
+
+I am a learning developer with a love for geospatial data and biking.
 
 <!--
 **moritzDalb/moritzDalb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
