@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4689F7&background=00000000&width=435&lines=Hello%2C+I'm+Moritz+Dalbkermeyer!;Welcome+to+my+GitHub+profile!;Full-Stack-Developer+|+Cyclist+Foodie)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4689F7&background=00000000&width=650&lines=Hello%2C+I'm+Moritz+Dalbkermeyer!;Full-Stack-Developer+|+Cyclist+|+Foodie;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
 **`Full-Stack Developer (Cycling/Cooking/Baking) 🇩🇪`**
 
