@@ -42,7 +42,7 @@
 
 ## 📊 GitHub Stats
 
-![Moritz's GitHub stats](https://github-readme-stats.vercel.app/api?username=moritzdalb&show_icons=true&theme=radical)
+![Moritz's GitHub stats](https://github-readme-stats.vercel.app/api?username=moritzDalb&show_icons=true&theme=radical)
 ---
 
-<img src="https://komarev.com/ghpvc/?username=moritzdalb&label=Profile%20views&color=0e75b6&style=flat" alt="moritzdalb" />
+<img src="https://komarev.com/ghpvc/?username=moritzDalb&label=Profile%20views&color=0e75b6&style=flat" alt="moritzDalb" />
