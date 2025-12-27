@@ -4,13 +4,6 @@
 
 ---
 
-## 🔗 Connect with me
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/moritz-dalbkermeyer-a869553a1)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/moritzdalb)
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
@@ -37,6 +30,13 @@
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,docker,azure" alt="DevOps & Tools" />
 </a>
+
+---
+
+## 🔗 Connect with me
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/moritz-dalbkermeyer-a869553a1)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/moritzdalb)
 
 ---
 
